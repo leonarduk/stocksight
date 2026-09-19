@@ -21,4 +21,4 @@ feedparser>=6.0.0
 feedfinder2>=0.0.4
 
 # Optional: for cleaning up lxml HTML safely
-lxml_html_clean==0.1.1  # if you still use it manually; otherwise omit
+lxml_html_clean==0.4.4  # if you still use it manually; otherwise omit
